@@ -1,0 +1,10 @@
+#summary Some app screenshots.
+
+=== Main screen ===
+[http://maya-calendar-android.googlecode.com/files/MayaCalendar1.jpg]
+
+=== Glyph ZOOM-IN ===
+[http://maya-calendar-android.googlecode.com/files/MayaCalendar3.jpg]
+
+=== Correlation date selection dialog ===
+[http://maya-calendar-android.googlecode.com/files/MayaCalendar4.jpg]
