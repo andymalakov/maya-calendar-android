@@ -3,8 +3,9 @@
 ----
 
 =Main screen=
+===With alternative long count glyphs===
 [http://maya-calendar-android.googlecode.com/files/MayaCalendar2.jpg]
-(With alternative long count glyphs)
+
 ----
 
 =Glyph zoom-in=
