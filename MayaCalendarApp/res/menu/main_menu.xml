@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:id="@+id/menuGroup_Main">
+		<item android:id="@+id/setCorrelationDate" android:title="@string/menuCorrelationDate"/>
+		<item android:id="@+id/about" android:title="@string/menuAbout"/>
+   </group>
+</menu>

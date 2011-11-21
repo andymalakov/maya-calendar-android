@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="katunDesc">x 7,200 days</string>
+    <string name="baktunDesc">x 144,000 days</string>
+    <string name="tunDesc">x 360 days</string>
+    <string name="winalDesc">x 20 days</string>
+    <string name="kinDesc">x 1 day</string>
+    <string name="katunText">Katuns</string>
+    <string name="baktunText">Baktuns</string>
+    <string name="tunText">Tuns</string>
+    <string name="winalText">Winals</string>
+    <string name="kinText">Kins</string>
+    <string name="katun">Katun</string>
+    <string name="baktun">Baktun</string>
+    <string name="tun">Tun</string>
+    <string name="winal">Winal</string>
+    <string name="kin">Kin</string>
+    <string name="changeDateGregorian">Change Gregorian Date</string>
+    <string name="changeDateMaya">Change Long Count Date</string>
+	<string name="menuAbout">About</string>
+	<string name="menuCorrelationDate">Correlation</string>
+	<string name="app_name">Maya Calendar</string>
+	
+	<string name="ok">OK</string>
+<string name="aboutTitle">About</string>
+<string name="pickCorrelationDateTitle">Pick Correlation Date</string>
+
+<string-array name="correlationConstantsList">
+<item>394483 - Bowditch</item>
+<item>489138 - Makesom</item>
+<item>489384 - Spinden</item>
+<item>584281 - Martinez-Hernando</item>
+<item>584283 - GMT</item>
+<item>584285 - Astronomical</item>
+</string-array>
+
+<string name="cancel">Cancel</string>
+<string name="pickLongCountDateTitle">Enter Long Count date</string>
+</resources>
