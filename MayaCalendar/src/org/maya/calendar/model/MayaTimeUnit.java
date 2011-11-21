@@ -1,4 +1,4 @@
-package org.sf.maya.calendar.model;
+package org.maya.calendar.model;
 
 public enum MayaTimeUnit {
 	
