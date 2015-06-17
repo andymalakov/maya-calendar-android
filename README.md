@@ -13,6 +13,11 @@
 Install the latest version of Mayan Calendar app from [here](http://maya-calendar-android.googlecode.com/files/MayaCalendarApp-0.2.apk).
 
 
+## Links: ##
+  * [FAMSI Date Conversion](http://research.famsi.org/date_mayaLC.php)
+  * [Maya Calendar on New York Times](http://www.nytimes.com/interactive/2009/11/16/science/20091116-maya.html)
+  * [Maya and Aztec calendars by René Voorburg](http://www.azteccalendar.com/maya)  * 
+  
 ## Change Log ##
 
   * FAMSI granted me permissions to use Mayan calendar symbols for this non-profit project. I am going to update images in the next build.
@@ -25,8 +30,6 @@ Install the latest version of Mayan Calendar app from [here](http://maya-calenda
   * Added dialog to select correlation date
   * Added toast to zoom-in glyphs
 
-### 0.0 ###
-initial prototype
 
 ## TODO ##
 
@@ -36,8 +39,4 @@ initial prototype
   * An ability to scroll components
 
 
-## Links: ##
-  * [FAMSI Date Conversion](http://research.famsi.org/date_mayaLC.php)
-  * http://www.nytimes.com/interactive/2009/11/16/science/20091116-maya.html Maya Calendar on New York Times]
-  * http://www.azteccalendar.com/maya/ Maya and Aztec calendars by René Voorburg]
 
